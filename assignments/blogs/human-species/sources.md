@@ -1,5 +1,11 @@
 # Sources — J-1003 Human species
-- Smithsonian Human Origins: https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens
-- Natural History Museum, Jebel Irhoud: https://www.nhm.ac.uk/discover/news/2017/june/oldest-fossils-of-homo-sapiens-found-in-morocco.html
-- Britannica, Homo sapiens: https://www.britannica.com/topic/Homo-sapiens
+- Smithsonian Human Origins, Homo habilis: https://humanorigins.si.edu/evidence/human-fossils/species/homo-habilis
+- Smithsonian Human Origins, Homo erectus: https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus
+- Smithsonian Human Origins, Homo heidelbergensis: https://humanorigins.si.edu/evidence/human-fossils/species/homo-heidelbergensis
+- Smithsonian Human Origins, Homo neanderthalensis: https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis
+- Smithsonian Human Origins, Homo floresiensis: https://humanorigins.si.edu/evidence/human-fossils/species/homo-floresiensis
+- Smithsonian Human Origins, Homo naledi: https://humanorigins.si.edu/evidence/human-fossils/species/homo-naledi
+- Smithsonian Human Origins, Homo sapiens: https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens
+- Nature (2019), A new species of Homo from the Late Pleistocene of the Philippines (H. luzonensis): https://www.nature.com/articles/s41586-019-1067-9
+- Nature (2010), Genetic history of an archaic hominin group from Denisova Cave: https://www.nature.com/articles/nature09710
 - UN World Population (8 billion): https://www.un.org/en/dayof8billion
